@@ -1,1 +1,1 @@
-# Design a single-layer network trained by Newton’s method using one of the UCI classification dataset.
+# Single-layer nueral network trained by Newton’s method using logistic regression on UCI classification dataset.
